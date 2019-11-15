@@ -4,7 +4,7 @@ start-6zm
 @static
 
 @http
-
+get /neueu
 
 @tables
 data
